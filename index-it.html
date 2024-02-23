@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html style="width: 100%; height: 100%">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85753328-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-85753328-3');
+    </script>
+    <title>Time.Graphics Timeline</title>
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=1030, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="gwt:property" content="locale=it">
+    <link rel="stylesheet" href="public/css/common.css">
+    <script src="public/js/jquery-2.1.4.min.js"></script>
+    <style>
+        body { overflow: hidden; }
+        #App { position: relative; }
+        #timelineAppBottom { position: absolute; bottom: 13px; right: 10px; display: flex; }
+        #timelineAppBottom > * { margin: 0 1px; }
+        .controlsZoom { background-color: rgba(216, 216, 216, 0.37); width: 47px; height: 203px; padding: 5px; border-radius: 26px; }
+        .controlsZoom .zoomIn { background-image: url("public/images/svg/plus.svg") }
+        .controlsZoom .zoomOut { background-image: url("public/images/svg/minus.svg") }
+    </style>
+    <script>
+        configGwtMap = (typeof configGwtMap != 'undefined' && configGwtMap instanceof Object) ? configGwtMap : {};
+        configGwtMap["canvasFont"] = "'Open Sans'";
+    </script>
+    <script src="gwt/offline/offline.nocache.js"></script>
+</head>
+<body style="width: 100%; height: 100%">
+<div style="display: none;">
+    <div id="gwtVersion">29</div>
+    <div id="premiumCode">0bc73def1625f3bdc3631f03c474cb03</div>
+    <div id="localePath">/</div>
+    <div id="locale">it</div>
+    <div id="jsonTimeline">
+        {
+  "id": 886959,
+  "name": "#EEG100",
+  "description": "This timeline accompanies a paper marking the 100th anniversary of human EEG measurements (Mushtag, 2024). Events depicted from the year 2024 onward represent predictions from over 500 EEG researchers and enthusiasts. The length of each event corresponds to the 95% confidence interval of these predictions. The color of the event varies from red to blue, with red indicating fewer responses and blue indicating more responses for each topic (see the legend in the upper right corner of the timeline). For further information, please visit the project\u0027s website at eeg100.org.",
+  "previewTimelineImage": "24fd6b9cd1f80fb4c575fc18431c7d6d.jpg",
+  "previewCustomImage": "835a171e83a8b88126f3990f2902d8bc.png",
+  "zoomAndPosition": "1974 12 31,151,80,YEAR_10",
+  "backgroundCoverImage": "bfb1314204e08fb516a6e8a71b0aa941.png/fit/",
+  "views": 24,
+  "likePlus": 0,
+  "likeMinus": 0,
+  "access": 2,
+  "userId": 486680,
+  "link": "68161c71774ddc4ae929e91893823616",
+  "anyoneCanEdit": true,
+  "quickApprove": false,
+  "themeId": 1,
+  "events": [
+    {
+      "timelineId": 886959,
+      "id": 9294112,
+      "name": "Caton uses galvanometer \nto record the rabbit\u0027s brain",
+      "description": "Caton, R. (1875). Electrical currents of the brain. The Journal of Nervous and Mental Disease, 2(4), 610.",
+      "time": "1875 1 10",
+      "overLine": false,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 1,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 9294113,
+      "name": "Pravdych-Neminsky \nConducts Non-Invasive \nEEG Recordings in Dogs",
+      "description": "For further details see Ch. 1 in: Niedermeyer, E., \u0026 da Silva, F. L. (Eds.). (2005). Electroencephalography: basic principles, clinical applications, and related fields. Lippincott Williams \u0026 Wilkins.",
+      "time": "1905 3 27",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 1,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 9294114,
+      "name": "Beginning of \nBerger\u0027s Pioneering \nMeasurements \nin Humans",
+      "description": "Image of Hans Berger. (February, 2024). In Wikipedia. https://et.wikipedia.org/wiki/Hans_Berger#/media/Fail:HansBerger_Univ_Jena.jpeg",
+      "time": "1924 7 6",
+      "overLine": true,
+      "commonColor": "#000000",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 5,
+      "medias": "img:116e804a86da8e12889eb77f1a000aa3.png",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 9294115,
+      "name": "First Published \nWork on Non-Invasive \nEEG in Humans",
+      "description": "Berger, H. (1929). Uber das Elekuoenzephalograinm des Menschen, Arch. Psychiatry, 87, 527-570.",
+      "time": "1929 12 1",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 1,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 9294116,
+      "name": "Adrian \u0026 Matthews \nReplicate Berger\u0027s Findings \nand Introduce the Frequency \nFollowing Response",
+      "description": "Adrian, E. D., \u0026 Matthews, B. H. (1934). The Berger rhythm: potential changes from the occipital lobes in man. Brain, 57(4), 355-385.",
+      "time": "1934 12",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 1,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 9294117,
+      "name": "Description of Cerebral Rhythms in Sleep",
+      "description": "Loomis, A. L., Harvey, E. N., \u0026 Hobart, G. (1935). Potential rhythms of the cerebral cortex during sleep. Science, 81(2111), 597-598.",
+      "time": "1935 6 14",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 1,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 9294118,
+      "name": "Lennox and Gibbs\u0027 Pioneering Research on Epilepsy",
+      "description": "Gibbs, F. A., Lennox, W. G., \u0026 Gibbs, E. L. (1936). The electro-encephalogram in diagnosis and in localization of epileptic seizures. Archives of Neurology \u0026 Psychiatry, 36(6), 1225-1235.",
+      "time": "1936 12",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "textPosition": 0,
+      "typeId": 1,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    }
+  ],
+  "periods": [
+    {
+      "timelineId": 886959,
+      "id": 3402657,
+      "name": "Several Indipendent Replications \nof Catons Work, Includin \nMarxov and Beck",
+      "description": "Copy of Markov\u0027s sealed letter held in Archives of the University of Vienna where Markov claims to have recorded electrical activity of the brain can be seen in Brazier\u0027s (1957) pice on the rise of the neurophysiology: Brazier, M. A. (1957). Rise of neurophysiology in the 19th century. Journal of neurophysiology, 20(2), 212-226.\n\nBeck, A. (1890). Die Bestimmung der Gehirn-und Rucken-markfunctionen vermittelst der electrischen Ersheimungen. bl. Physiol, 4, 473-476.",
+      "timeFrom": "1883 1 1",
+      "timeTo": "1890 20 10",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "typeId": 4,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402658,
+      "name": "Introduction of Commercial EEG Amplifiers",
+      "description": "Collura, T. F. (1993). History and evolution of electroencephalographic instruments and techniques. Journal of clinical neurophysiology, 10(4), 476-504.",
+      "timeFrom": "1935 1 1 0 0",
+      "timeTo": "1947 1 1 0 0",
+      "overLine": true,
+      "commonColor": "#FF9200",
+      "textColor": "#000000",
+      "typeId": 2,
+      "medias": "",
+      "tagsCsv": "",
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402659,
+      "name": "Progression of traumatic brain injuries",
+      "description": "EEG is used as a reliable tool for detecting and monitoring the progression of traumatic brain injuries (TBI) and concussions.",
+      "timeFrom": "2042 6 18",
+      "timeTo": "2046 3 31",
+      "overLine": true,
+      "commonColor": "#6788ee",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402660,
+      "name": "Personalized neuromodulation therapies",
+      "description": "Closed-loop EEG systems are developed for adaptive and personalized neuromodulation therapies, such as deep brain stimulation and transcranial magnetic stimulation.",
+      "timeFrom": "2043 4 11",
+      "timeTo": "2047 3 26",
+      "overLine": true,
+      "commonColor": "#6485ec",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402661,
+      "name": "EEG-based BCIs for gaming \u0026 VR",
+      "description": "EEG-based brain-computer interfaces are widely adopted in gaming and virtual reality applications.",
+      "timeFrom": "2043 11 19",
+      "timeTo": "2047 10 18",
+      "overLine": false,
+      "commonColor": "#5a78e4",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402662,
+      "name": "Ethical BCI development",
+      "description": "Ethical considerations are incorporated into the development of brain-computer interfaces, taking into account potential implications on personal identity, autonomy, and agency.",
+      "timeFrom": "2044 11 2",
+      "timeTo": "2049 5 19",
+      "overLine": false,
+      "commonColor": "#6f92f3",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199323",
+      "tagIds": [
+        199323
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402663,
+      "name": "Standard treatment for mental health",
+      "description": "EEG-guided neurofeedback therapy becomes a standard treatment option for mental health disorders such as ADHD and anxiety.",
+      "timeFrom": "2045 9 25",
+      "timeTo": "2049 11 17",
+      "overLine": true,
+      "commonColor": "#6180e9",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402664,
+      "name": "Early detection \u0026 intervention for learning disabilities",
+      "description": "EEG-based technology enables early detection and intervention for learning disabilities in children.",
+      "timeFrom": "2046 5 16",
+      "timeTo": "2050 10 11",
+      "overLine": true,
+      "commonColor": "#86a9fc",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402665,
+      "name": "Untrained users can collect high quality data",
+      "description": "EEG systems are sufficiently robust and user-friendly that untrained individuals are able to use them to reliably collect high quality data.",
+      "timeFrom": "2046 9 6",
+      "timeTo": "2051 4 11",
+      "overLine": false,
+      "commonColor": "#9ebeff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402666,
+      "name": "Ontology for ERPs mapped to cognitive processes",
+      "description": "There is widely agreed ontology mapping ERP components to cognitive processes.",
+      "timeFrom": "2046 10 21",
+      "timeTo": "2052 3 16",
+      "overLine": false,
+      "commonColor": "#d5dbe5",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402667,
+      "name": "Early detection of neurodegeneration",
+      "description": "EEG technology enables accurate and efficient detection of early-stage neurodegenerative diseases, such as Alzheimer\u0027s and Parkinson\u0027s.",
+      "timeFrom": "2047 10 11",
+      "timeTo": "2051 11 10",
+      "overLine": true,
+      "commonColor": "#6687ed",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402668,
+      "name": "Widely accessible in every part of the globe",
+      "description": "EEG technology is sufficiently low cost that it is widely accessible to researchers and clinicians to use in every part of the globe.",
+      "timeFrom": "2047 7 23",
+      "timeTo": "2052 6 23",
+      "overLine": false,
+      "commonColor": "#7295f4",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402669,
+      "name": "Decoding of cognitive states \u0026 emotions",
+      "description": "Improvements in machine learning algorithms allow for seamless decoding of cognitive states and emotions using EEG data.",
+      "timeFrom": "2048 8 11",
+      "timeTo": "2053 7 6",
+      "overLine": false,
+      "commonColor": "#7da0f9",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402670,
+      "name": "Personalized treatment for mental health disorders",
+      "description": "Machine learning-driven EEG analysis contributes to the development of personalized treatment plans for mental health disorders.",
+      "timeFrom": "2048 11 2",
+      "timeTo": "2053 5 27",
+      "overLine": true,
+      "commonColor": "#7093f3",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402671,
+      "name": "Primary communication tool for motor disabilities",
+      "description": "EEG-based technology is used as a primary tool for communication by individuals with severe motor disabilities or locked-in syndrome.",
+      "timeFrom": "2049 1 16",
+      "timeTo": "2053 7 20",
+      "overLine": true,
+      "commonColor": "#5b7ae5",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402672,
+      "name": "Brain health during prenatal \u0026 neonatal stages",
+      "description": "EEG technology allows for the non-invasive assessment of brain health during prenatal and neonatal stages.",
+      "timeFrom": "2049 2 16",
+      "timeTo": "2054 1 27",
+      "overLine": true,
+      "commonColor": "#97b8ff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402673,
+      "name": "Monitor worker fatigue in high-risk environments",
+      "description": "EEG technology is integrated into workplace safety protocols to monitor worker fatigue and cognitive function in high-risk environments.",
+      "timeFrom": "2049 10 6",
+      "timeTo": "2054 9 12",
+      "overLine": false,
+      "commonColor": "#94b6ff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402674,
+      "name": "Precise \u0026 individualized neuromodulation therapies",
+      "description": "Advancements in EEG technology enable the development of precise and individualized neuromodulation therapies for various neurological and psychiatric disorders.",
+      "timeFrom": "2050 3 11",
+      "timeTo": "2054 6 10",
+      "overLine": true,
+      "commonColor": "#6384eb",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402675,
+      "name": "Consumer-devices monitor \u0026 enhance cognition",
+      "description": "Consumer-grade EEG devices are widely used to monitor and enhance cognitive performance in professional and educational settings.",
+      "timeFrom": "2050 1 27",
+      "timeTo": "2055 1 22",
+      "overLine": false,
+      "commonColor": "#94b6ff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402676,
+      "name": "Remote neurological assessments \u0026 treatments",
+      "description": "Advancements in EEG technology enable remote and telemedicine applications for neurological assessments and treatments.",
+      "timeFrom": "2050 4 22",
+      "timeTo": "2055 5 12",
+      "overLine": true,
+      "commonColor": "#96b7ff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402677,
+      "name": "Guidelines for marketing \u0026 entertainment",
+      "description": "Guidelines for the responsible use of EEG technology in marketing, advertising, and entertainment industries are established, preventing the potential manipulation of users\u0027 emotions, cognitive states, and decision-making processes.",
+      "timeFrom": "2050 4 4",
+      "timeTo": "2055 9 22",
+      "overLine": false,
+      "commonColor": "#94b6ff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199323",
+      "tagIds": [
+        199323
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402678,
+      "name": "Integrated with smartphones",
+      "description": "EEG technology is widely used with daily-use devices like smartphones and smartwatches, providing continuous brain monitoring.",
+      "timeFrom": "2051 9 26",
+      "timeTo": "2056 12 3",
+      "overLine": false,
+      "commonColor": "#84a7fc",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402679,
+      "name": "Biometric identification",
+      "description": "EEG-driven passive biometric authentication is integrated into AR, VR, and metaverse platforms, ensuring secure access to personal data and virtual assets.",
+      "timeFrom": "2052 11 2",
+      "timeTo": "2058 7 3",
+      "overLine": false,
+      "commonColor": "#e9d5cb",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402680,
+      "name": "Control of virtual environments",
+      "description": "The integration of EEG-based brain-computer interfaces with AR, VR, and metaverse platforms enables intuitive and seamless control of virtual environments using thought alone.",
+      "timeFrom": "2053 4 28",
+      "timeTo": "2059 4 24",
+      "overLine": false,
+      "commonColor": "#bcd2f7",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402681,
+      "name": "Virtual environments in aid of cognitive support",
+      "description": "Integration of EEG data in AR, VR, and metaverse platforms leads to adaptive environments that respond to users\u0027 cognitive states, emotions, and mental workload.",
+      "timeFrom": "2054 5 3",
+      "timeTo": "2059 12 13",
+      "overLine": false,
+      "commonColor": "#a3c2fe",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402682,
+      "name": "Used as a lie detector",
+      "description": "EEG is widely used as a lie detector",
+      "timeFrom": "2055 3 5",
+      "timeTo": "2062 10 29",
+      "overLine": false,
+      "commonColor": "#ed8366",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402683,
+      "name": "Identify students in need of additional support",
+      "description": "EEG is used to identify students in need of additional support to unlock their full educational potential.",
+      "timeFrom": "2057 4 8",
+      "timeTo": "2063 10 1",
+      "overLine": true,
+      "commonColor": "#f6bda2",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402684,
+      "name": "Brain health measure used across the globe",
+      "description": "EEG is used widely across the globe (including in lower and middle income countries) as an indicator of brain health.",
+      "timeFrom": "2058 9 4",
+      "timeTo": "2064 6 13",
+      "overLine": false,
+      "commonColor": "#a5c3fe",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402685,
+      "name": "Reading content of dreams",
+      "description": "EEG can be used to read the content of your dreams",
+      "timeFrom": "2071 1 21",
+      "timeTo": "2079 11 26",
+      "overLine": false,
+      "commonColor": "#df634e",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402686,
+      "name": "Reading long-term memories",
+      "description": "EEG can be used to read the content of your long-term memories",
+      "timeFrom": "2078 12 5",
+      "timeTo": "2088 8 25",
+      "overLine": false,
+      "commonColor": "#b40426",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199325",
+      "tagIds": [
+        199325
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402692,
+      "name": "PREDICTIONS ~\u003e",
+      "description": "All data and materials, including an interactive web application, are available via eeg100.org and Open Science Framework: [Insert Link]",
+      "timeFrom": "2024 1 1",
+      "timeTo": "2088 8 25",
+      "overLine": false,
+      "commonColor": "#f3ead6",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199323,199322,199325,199324",
+      "tagIds": [
+        199323,
+        199322,
+        199325,
+        199324
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402722,
+      "name": "Diagnosis \u0026 monitoring of sleep disorders",
+      "description": "EEG is routinely used in the diagnosis and monitoring of sleep disorders, such as sleep apnea and insomnia.",
+      "timeFrom": "2033 12 1 0 0",
+      "timeTo": "2037 3 1 0 0",
+      "overLine": true,
+      "commonColor": "#5673e0",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402723,
+      "name": "Personal use common",
+      "description": "Portable, consumer-grade EEG devices become widely available for personal use, such as for relaxation or focus training.",
+      "timeFrom": "2037 3 27 0 0",
+      "timeTo": "2040 5 6 0 0",
+      "overLine": false,
+      "commonColor": "#3b4cc0",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402724,
+      "name": "Detection of brain abnormalities",
+      "description": "EEG data analysis enables real-time, reliable detection of brain abnormalities such as seizures or tumours.",
+      "timeFrom": "2037 5 15 0 0",
+      "timeTo": "2040 9 1 0 0",
+      "overLine": true,
+      "commonColor": "#3b4cc0",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402725,
+      "name": "Study impact of pharmacological interventions",
+      "description": "EEG devices are utilised to study the impact of various pharmacological interventions on brain activity.",
+      "timeFrom": "2038 5 9 0 0",
+      "timeTo": "2041 10 4 0 0",
+      "overLine": true,
+      "commonColor": "#6180e9",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199322",
+      "tagIds": [
+        199322
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402726,
+      "name": "Automatic pipelines outperform human-in-the-loop",
+      "description": "Automatic preprocessing pipelines outperform human-in-the-loop workflows.",
+      "timeFrom": "2038 10 13 0 0",
+      "timeTo": "2042 5 30 0 0",
+      "overLine": false,
+      "commonColor": "#7ea1fa",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199323",
+      "tagIds": [
+        199323
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402727,
+      "name": "Widely agreed definitions for resting state data",
+      "description": "There are widely agreed definitions on how to collect, analyse and interpret resting state EEG data.",
+      "timeFrom": "2038 12 3 0 0",
+      "timeTo": "2042 4 24 0 0",
+      "overLine": false,
+      "commonColor": "#a1c0ff",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199323",
+      "tagIds": [
+        199323
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402728,
+      "name": "Consensuses on best practices for preprocessing",
+      "description": "There is a scientific consensus on best practices for preprocessing EEG data.",
+      "timeFrom": "2039 3 4 0 0",
+      "timeTo": "2045 11 3 0 0",
+      "overLine": false,
+      "commonColor": "#c7d7f0",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199323",
+      "tagIds": [
+        199323
+      ]
+    },
+    {
+      "timelineId": 886959,
+      "id": 3402729,
+      "name": "High quality data possible from everyone",
+      "description": "High quality EEG data can be acquired from anyone, irrespective of their hair type and other physical characteristics.",
+      "timeFrom": "2042 3 12 0 0",
+      "timeTo": "2045 11 3 0 0",
+      "overLine": false,
+      "commonColor": "#93b5fe",
+      "textColor": "#000000",
+      "typeId": 6,
+      "medias": "",
+      "tagsCsv": "199324",
+      "tagIds": [
+        199324
+      ]
+    }
+  ],
+  "progresses": [],
+  "statistics": [
+    {
+      "timelineId": 886959,
+      "id": 17315,
+      "name": "Total number of EEG papers published (PubMed)",
+      "description": "Alexandru Dan Corlan. Medline trend: automated yearly statistics of PubMed results for any query, 2004. Web resource at URL:http://dan.corlan.net/medline-trend.html. Accessed: 2024-02-21. (Archived by WebCite at http://www.webcitation.org/65RkD48SV)",
+      "valueMetric": "Papers",
+      "statisticData": "2021\t12\t31, 9145\n2020\t12\t31, 8523\n2019\t12\t31, 7877\n2018\t12\t31, 7764\n2017\t12\t31, 7429\n2016\t12\t31, 7201\n2015\t12\t31, 7303\n2014\t12\t31, 7059\n2013\t12\t31, 6945\n2012\t12\t31, 6276\n2011\t12\t31, 6079\n2010\t12\t31, 5474\n2009\t12\t31, 5174\n2008\t12\t31, 4676\n2007\t12\t31, 4409\n2006\t12\t31, 4268\n2005\t12\t31, 3914\n2004\t12\t31, 3460\n2003\t12\t31, 3031\n2002\t12\t31, 2730\n2001\t12\t31, 2782\n2000\t12\t31, 2774\n1999\t12\t31, 2652\n1998\t12\t31, 2391\n1997\t12\t31, 2333\n1996\t12\t31, 2196\n1995\t12\t31, 2225\n1994\t12\t31, 2289\n1993\t12\t31, 2270\n1992\t12\t31, 2448\n1991\t12\t31, 2442\n1990\t12\t31, 2250\n1989\t12\t31, 2046\n1988\t12\t31, 1880\n1987\t12\t31, 1833\n1986\t12\t31, 1965\n1985\t12\t31, 1825\n1984\t12\t31, 1970\n1983\t12\t31, 1768\n1982\t12\t31, 1649\n1981\t12\t31, 1646\n1980\t12\t31, 1797\n1979\t12\t31, 1787\n1978\t12\t31, 1719\n1977\t12\t31, 1677\n1976\t12\t31, 1511\n1975\t12\t31, 1686\n1974\t12\t31, 2002\n1973\t12\t31, 2161\n1972\t12\t31, 2183\n1971\t12\t31, 2348\n1970\t12\t31, 2264\n1969\t12\t31, 2724\n1968\t12\t31, 2285\n1967\t12\t31, 2172\n1966\t12\t31, 1561\n1965\t12\t31, 1406\n1964\t12\t31, 1696\n1963\t12\t31, 1151\n1962\t12\t31, 658\n1961\t12\t31, 586\n1960\t12\t31, 506\n1959\t12\t31, 544\n1958\t12\t31, 588\n1957\t12\t31, 485\n1956\t12\t31, 560\n1955\t12\t31, 543\n1954\t12\t31, 506\n1953\t12\t31, 456\n1952\t12\t31, 393\n1951\t12\t31, 293\n1950\t12\t31, 296",
+      "overLine": true,
+      "lineColor": "#b9151c",
+      "lineWidth": 5,
+      "height": 180,
+      "medias": "",
+      "intermediateValues": true,
+      "tagsCsv": "",
+      "rows": [],
+      "tagIds": []
+    },
+    {
+      "timelineId": 886959,
+      "id": 17316,
+      "name": "EEG Papers per 100,000 publications (PubMed)",
+      "description": "Alexandru Dan Corlan. Medline trend: automated yearly statistics of PubMed results for any query, 2004. Web resource at URL:http://dan.corlan.net/medline-trend.html. Accessed: 2024-02-21. (Archived by WebCite at http://www.webcitation.org/65RkD48SV)",
+      "valueMetric": "Papers",
+      "statisticData": "2021\t12\t31, 512.356\n2020\t12\t31, 519.775\n2019\t12\t31, 555.61\n2018\t12\t31, 574.335\n2017\t12\t31, 569.648\n2016\t12\t31, 560.263\n2015\t12\t31, 580.514\n2014\t12\t31, 585.424\n2013\t12\t31, 603.869\n2012\t12\t31, 575.722\n2011\t12\t31, 595.621\n2010\t12\t31, 581.01\n2009\t12\t31, 589.509\n2008\t12\t31, 558.51\n2007\t12\t31, 560.42\n2006\t12\t31, 568.956\n2005\t12\t31, 558.8\n2004\t12\t31, 540.833\n2003\t12\t31, 509.763\n2002\t12\t31, 482.778\n2001\t12\t31, 508.007\n2000\t12\t31, 520.795\n1999\t12\t31, 536.906\n1998\t12\t31, 503.619\n1997\t12\t31, 510.627\n1996\t12\t31, 478.628\n1995\t12\t31, 495.178\n1994\t12\t31, 521.417\n1993\t12\t31, 530.73\n1992\t12\t31, 585.495\n1991\t12\t31, 590.871\n1990\t12\t31, 547.485\n1989\t12\t31, 507.812\n1988\t12\t31, 485.656\n1987\t12\t31, 498.019\n1986\t12\t31, 561.719\n1985\t12\t31, 544.06\n1984\t12\t31, 618.884\n1983\t12\t31, 571.078\n1982\t12\t31, 557.42\n1981\t12\t31, 580.207\n1980\t12\t31, 640.194\n1979\t12\t31, 633.284\n1978\t12\t31, 630.573\n1977\t12\t31, 639.508\n1976\t12\t31, 592.477\n1975\t12\t31, 676.451\n1974\t12\t31, 851.422\n1973\t12\t31, 934.854\n1972\t12\t31, 957.67\n1971\t12\t31, 1049.817\n1970\t12\t31, 1031.783\n1969\t12\t31, 1264.853\n1968\t12\t31, 1097.734\n1967\t12\t31, 1130.82\n1966\t12\t31, 866.332\n1965\t12\t31, 795.532\n1964\t12\t31, 1046.203\n1963\t12\t31, 813.203\n1962\t12\t31, 523.498\n1961\t12\t31, 487.606\n1960\t12\t31, 450.888\n1959\t12\t31, 494.545\n1958\t12\t31, 537.138\n1957\t12\t31, 434.864\n1956\t12\t31, 523.286\n1955\t12\t31, 500.175\n1954\t12\t31, 477.62\n1953\t12\t31, 418.598\n1952\t12\t31, 363.314\n1951\t12\t31, 282.178\n1950\t12\t31, 345.077",
+      "overLine": false,
+      "lineColor": "#277707",
+      "lineWidth": 5,
+      "height": 130,
+      "medias": "",
+      "intermediateValues": true,
+      "tagsCsv": "",
+      "rows": [],
+      "tagIds": []
+    }
+  ],
+  "statisticsYandexMetrika": [],
+  "statisticsGoogleAnalytics": [],
+  "reportingAPIs": [],
+  "groups": [],
+  "multistats": []
+}
+    </div>
+    <div id="jsonTags">
+        [
+  {
+    "id": 199322,
+    "name": "Clinical applications",
+    "color": "#8a2a86",
+    "timelineId": 886959,
+    "userId": 486680
+  },
+  {
+    "id": 199323,
+    "name": "Unified standards",
+    "color": "#009882",
+    "timelineId": 886959,
+    "userId": 486680
+  },
+  {
+    "id": 199324,
+    "name": "Accessibility",
+    "color": "#ff8000",
+    "timelineId": 886959,
+    "userId": 486680
+  },
+  {
+    "id": 199325,
+    "name": "Decoding",
+    "color": "#b40426",
+    "timelineId": 886959,
+    "userId": 486680
+  }
+]
+    </div>
+</div>
+<div id="App" style="width: 100%; height: 100%; position: relative;">
+    <div id="timelineApp"></div>
+    <div id="tagsContainer"></div>
+    <div id="timelineAppBottom">
+        <a target="_parent" href="https://time.graphics">
+            <img style="height: 39px; margin: 0 8px;" src="public/images/svg/design/logo-main.svg" alt="logo">
+        </a>
+    </div>
+</div>
+</body>
+</html>

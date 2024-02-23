@@ -1,0 +1,269 @@
+@FinalFields, false
+com.github.nmorel.gwtjackson.client.arrays.JsList, true, true, true, true, com.github.nmorel.gwtjackson.client.arrays.JsList/1494114367, 1494114367
+[Lcom.github.nmorel.gwtjackson.client.arrays.JsList;, true, true, true, true, [Lcom.github.nmorel.gwtjackson.client.arrays.JsList;/745262189, 745262189
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, true, true, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.SerializableException, false, false, true, true, com.google.gwt.user.client.rpc.SerializableException/3047383460, 3047383460
+com.google.gwt.user.client.rpc.SerializationException, false, false, true, false, com.google.gwt.user.client.rpc.SerializationException/2836333220, 2836333220
+com.google.gwt.user.client.rpc.SerializedTypeViolationException, false, false, true, true, com.google.gwt.user.client.rpc.SerializedTypeViolationException/914601580, 914601580
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+com.google.gwt.user.client.ui.ChangeListenerCollection, true, true, true, true, com.google.gwt.user.client.ui.ChangeListenerCollection/287642957, 287642957
+com.google.gwt.user.client.ui.ClickListenerCollection, true, true, true, true, com.google.gwt.user.client.ui.ClickListenerCollection/2152455986, 2152455986
+com.google.gwt.user.client.ui.FocusListenerCollection, true, true, true, true, com.google.gwt.user.client.ui.FocusListenerCollection/119490835, 119490835
+com.google.gwt.user.client.ui.KeyboardListenerCollection, true, true, true, true, com.google.gwt.user.client.ui.KeyboardListenerCollection/1040442242, 1040442242
+com.google.gwt.user.client.ui.MultiWordSuggestOracle$MultiWordSuggestion, false, false, true, true, com.google.gwt.user.client.ui.MultiWordSuggestOracle$MultiWordSuggestion/2803420099, 2803420099
+[Lcom.google.gwt.user.client.ui.MultiWordSuggestOracle$MultiWordSuggestion;, false, false, true, true, [Lcom.google.gwt.user.client.ui.MultiWordSuggestOracle$MultiWordSuggestion;/1531882420, 1531882420
+com.google.gwt.user.client.ui.SuggestOracle$Request, false, false, true, true, com.google.gwt.user.client.ui.SuggestOracle$Request/3707347745, 3707347745
+com.google.gwt.user.client.ui.SuggestOracle$Response, false, false, true, true, com.google.gwt.user.client.ui.SuggestOracle$Response/3840253928, 3840253928
+[Lcom.google.gwt.user.client.ui.SuggestOracle$Suggestion;, false, false, true, true, [Lcom.google.gwt.user.client.ui.SuggestOracle$Suggestion;/3224244884, 3224244884
+[D, false, false, true, true, [D/2047612875, 2047612875
+java.lang.Boolean, true, true, true, true, java.lang.Boolean/476441737, 476441737
+java.lang.Double, true, true, true, true, java.lang.Double/858496421, 858496421
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Integer, true, true, true, true, java.lang.Integer/3438268394, 3438268394
+[Ljava.lang.Integer;, false, false, true, true, [Ljava.lang.Integer;/1574882222, 1574882222
+java.lang.Long, true, true, true, true, java.lang.Long/4227064769, 4227064769
+java.lang.Number, true, false, true, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+[Ljava.lang.String;, true, true, true, true, [Ljava.lang.String;/2600011424, 2600011424
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.lang.Void, true, true, false, false, java.lang.Void/2139725816, 2139725816
+java.math.BigInteger, false, false, true, true, java.math.BigInteger/927293797, 927293797
+java.sql.Timestamp, true, true, true, true, java.sql.Timestamp/3040052672, 3040052672
+[Ljava.util.AbstractList;, true, true, true, true, [Ljava.util.AbstractList;/727920111, 727920111
+[Ljava.util.AbstractSequentialList;, true, true, true, true, [Ljava.util.AbstractSequentialList;/3144020509, 3144020509
+java.util.ArrayList, true, true, true, true, java.util.ArrayList/4159755760, 4159755760
+[Ljava.util.ArrayList;, true, true, true, true, [Ljava.util.ArrayList;/2683379088, 2683379088
+java.util.Arrays$ArrayList, true, true, true, true, java.util.Arrays$ArrayList/2507071751, 2507071751
+java.util.Collections$EmptyList, true, true, true, true, java.util.Collections$EmptyList/4157118744, 4157118744
+java.util.Collections$EmptySet, true, true, true, true, java.util.Collections$EmptySet/3523698179, 3523698179
+java.util.Collections$SingletonList, true, true, true, true, java.util.Collections$SingletonList/1586180994, 1586180994
+java.util.Date, true, false, true, false, java.util.Date/3385151746, 3385151746
+java.util.HashMap, true, true, true, true, java.util.HashMap/1797211028, 1797211028
+java.util.HashSet, true, true, true, true, java.util.HashSet/3273092938, 3273092938
+java.util.LinkedHashMap, true, true, true, true, java.util.LinkedHashMap/3008245022, 3008245022
+java.util.LinkedHashSet, true, true, true, true, java.util.LinkedHashSet/95640124, 95640124
+java.util.LinkedList, true, true, true, true, java.util.LinkedList/3953877921, 3953877921
+[Ljava.util.LinkedList;, true, true, true, true, [Ljava.util.LinkedList;/1037437294, 1037437294
+[Ljava.util.List;, true, true, true, true, [Ljava.util.List;/2827171268, 2827171268
+java.util.Stack, true, true, true, true, java.util.Stack/1346942793, 1346942793
+[Ljava.util.Stack;, true, true, true, true, [Ljava.util.Stack;/675459124, 675459124
+java.util.TreeMap, true, true, true, true, java.util.TreeMap/1493889780, 1493889780
+java.util.TreeSet, true, true, true, true, java.util.TreeSet/4043497002, 4043497002
+java.util.Vector, true, true, true, true, java.util.Vector/3057315478, 3057315478
+[Ljava.util.Vector;, true, true, true, true, [Ljava.util.Vector;/3889776585, 3889776585
+time.graphics.gwt.common.client.entity.EntityAdapter, true, false, true, false, time.graphics.gwt.common.client.entity.EntityAdapter/1714943998, 1714943998
+time.graphics.gwt.common.client.entity.EntityAdapterStatistics, true, false, true, false, time.graphics.gwt.common.client.entity.EntityAdapterStatistics/3491921961, 3491921961
+[Ltime.graphics.gwt.common.client.entity.EntityAdapterStatistics;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityAdapterStatistics;/4236448445, 4236448445
+[Ltime.graphics.gwt.common.client.entity.EntityAdapter;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityAdapter;/929597332, 929597332
+time.graphics.gwt.common.client.entity.EntityApiGoogleAnalyticsSettings, true, true, true, true, time.graphics.gwt.common.client.entity.EntityApiGoogleAnalyticsSettings/576156253, 576156253
+@ClientFields,time.graphics.gwt.common.client.entity.EntityApiGoogleAnalyticsSettings,id,username,accountName,propertyId,propertyName,propertyWebsiteUrl,profileName,profileId,profileType,token,tokenRefresh,ts
+[Ltime.graphics.gwt.common.client.entity.EntityApiGoogleAnalyticsSettings;, true, true, false, false, [Ltime.graphics.gwt.common.client.entity.EntityApiGoogleAnalyticsSettings;/2225287222, 2225287222
+time.graphics.gwt.common.client.entity.EntityApiReportingSettings, true, true, true, true, time.graphics.gwt.common.client.entity.EntityApiReportingSettings/101978093, 101978093
+@ClientFields,time.graphics.gwt.common.client.entity.EntityApiReportingSettings,id,name,url,type,ts,list
+time.graphics.gwt.common.client.entity.EntityApiYandexMetrikaSettings, true, true, true, true, time.graphics.gwt.common.client.entity.EntityApiYandexMetrikaSettings/765543033, 765543033
+@ClientFields,time.graphics.gwt.common.client.entity.EntityApiYandexMetrikaSettings,id,name,owner,yandexCounterId,site,token,ts
+[Ltime.graphics.gwt.common.client.entity.EntityApiYandexMetrikaSettings;, true, true, false, false, [Ltime.graphics.gwt.common.client.entity.EntityApiYandexMetrikaSettings;/4069816076, 4069816076
+time.graphics.gwt.common.client.entity.EntityApp, false, false, true, true, time.graphics.gwt.common.client.entity.EntityApp/1118639697, 1118639697
+@ClientFields,time.graphics.gwt.common.client.entity.EntityApp,id,userId,name,address,website,ts,admins,plans
+time.graphics.gwt.common.client.entity.EntityAppAdmin, false, false, true, true, time.graphics.gwt.common.client.entity.EntityAppAdmin/330482427, 330482427
+@ClientFields,time.graphics.gwt.common.client.entity.EntityAppAdmin,id,appId,userId,ts
+time.graphics.gwt.common.client.entity.EntityAppClassroom, false, false, true, true, time.graphics.gwt.common.client.entity.EntityAppClassroom/1935514424, 1935514424
+@ClientFields,time.graphics.gwt.common.client.entity.EntityAppClassroom,id,userId,planId,name,description,teachersAdded,studentsAdded,ts
+time.graphics.gwt.common.client.entity.EntityAppPlan, true, true, true, true, time.graphics.gwt.common.client.entity.EntityAppPlan/3391169144, 3391169144
+@ClientFields,time.graphics.gwt.common.client.entity.EntityAppPlan,id,appId,userId,activated,teachers,corporates,teachersAdded,studentsAdded,corporateAdded,students,startDate,endDate,ts
+time.graphics.gwt.common.client.entity.EntityAppPlanCorpUser, false, false, true, true, time.graphics.gwt.common.client.entity.EntityAppPlanCorpUser/1637687124, 1637687124
+@ClientFields,time.graphics.gwt.common.client.entity.EntityAppPlanCorpUser,id,planId,userId,ts,addedByUserId
+time.graphics.gwt.common.client.entity.EntityAppPlanEduUser, false, false, true, true, time.graphics.gwt.common.client.entity.EntityAppPlanEduUser/2187318715, 2187318715
+@ClientFields,time.graphics.gwt.common.client.entity.EntityAppPlanEduUser,id,planId,classroomId,userId,roleId,ts,addedByUserId
+[Ltime.graphics.gwt.common.client.entity.EntityAppPlan;, false, false, true, true, [Ltime.graphics.gwt.common.client.entity.EntityAppPlan;/2603497277, 2603497277
+time.graphics.gwt.common.client.entity.EntityConnection, true, true, true, true, time.graphics.gwt.common.client.entity.EntityConnection/2715548632, 2715548632
+@ClientFields,time.graphics.gwt.common.client.entity.EntityConnection
+time.graphics.gwt.common.client.entity.EntityConnectionCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityConnectionCommon/2443527509, 2443527509
+[Ltime.graphics.gwt.common.client.entity.EntityConnectionCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityConnectionCommon;/821935502, 821935502
+time.graphics.gwt.common.client.entity.EntityConnectionUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityConnectionUpdate/452621380, 452621380
+@ClientFields,time.graphics.gwt.common.client.entity.EntityConnectionUpdate,updateId,actionId,entityGroupId,entityId,updateGroupId
+[Ltime.graphics.gwt.common.client.entity.EntityConnectionUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityConnectionUpdate;/437901244, 437901244
+[Ltime.graphics.gwt.common.client.entity.EntityConnection;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityConnection;/3807173633, 3807173633
+time.graphics.gwt.common.client.entity.EntityEvent, true, true, true, true, time.graphics.gwt.common.client.entity.EntityEvent/951426243, 951426243
+@ClientFields,time.graphics.gwt.common.client.entity.EntityEvent,timelineId
+time.graphics.gwt.common.client.entity.EntityEventCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityEventCommon/1085047993, 1085047993
+[Ltime.graphics.gwt.common.client.entity.EntityEventCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityEventCommon;/2147670425, 2147670425
+time.graphics.gwt.common.client.entity.EntityEventUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityEventUpdate/2348696422, 2348696422
+@ClientFields,time.graphics.gwt.common.client.entity.EntityEventUpdate,updateTimelineId,entityId,actionId,updateGroupId
+[Ltime.graphics.gwt.common.client.entity.EntityEventUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityEventUpdate;/2928666911, 2928666911
+[Ltime.graphics.gwt.common.client.entity.EntityEvent;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityEvent;/626266114, 626266114
+time.graphics.gwt.common.client.entity.EntityFolder, true, true, true, true, time.graphics.gwt.common.client.entity.EntityFolder/2558563867, 2558563867
+@ClientFields,time.graphics.gwt.common.client.entity.EntityFolder,id,userId,parentId,name,folders
+[Ltime.graphics.gwt.common.client.entity.EntityFolder;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityFolder;/335229657, 335229657
+time.graphics.gwt.common.client.entity.EntityGroup, true, true, true, true, time.graphics.gwt.common.client.entity.EntityGroup/2281433248, 2281433248
+@ClientFields,time.graphics.gwt.common.client.entity.EntityGroup,timelineId,events,periods,progresses,groups,statistics,statisticsYandexMetrika,statisticsGoogleAnalytics,reportingAPIs,multistats
+time.graphics.gwt.common.client.entity.EntityGroupCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityGroupCommon/3698986842, 3698986842
+[Ltime.graphics.gwt.common.client.entity.EntityGroupCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityGroupCommon;/3404889388, 3404889388
+time.graphics.gwt.common.client.entity.EntityGroupUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityGroupUpdate/1271182855, 1271182855
+@ClientFields,time.graphics.gwt.common.client.entity.EntityGroupUpdate,updateId,actionId,entityId,updateGroupId
+[Ltime.graphics.gwt.common.client.entity.EntityGroupUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityGroupUpdate;/85858890, 85858890
+[Ltime.graphics.gwt.common.client.entity.EntityGroup;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityGroup;/1980756906, 1980756906
+[Ltime.graphics.gwt.common.client.entity.EntityInterface;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityInterface;/956476980, 956476980
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicator, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicator/3052893037, 3052893037
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicator,id,code
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicatorI18n, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicatorI18n/1977700238, 1977700238
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicatorI18n,id,indicatorId,locale,name,sourceNote,sourceOrganization,topics,indicator
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicatorI18nText, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicatorI18nText/461669184, 461669184
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankIndicatorI18nText,id,indicatorId,locale,name,sourceNote,sourceOrganization,topics
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegion, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegion/1411173775, 1411173775
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegion,id,code,ownerCode,iso2Code,lat,lon
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegionI18n, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegionI18n/315388431, 315388431
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegionI18n,id,regionId,incomeLevel,name,capitalCity,locale,region
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegionI18nText, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegionI18nText/3917679217, 3917679217
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankRegionI18nText,id,regionId,incomeLevel,name,capitalCity,locale
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatistic, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatistic/3418184180, 3418184180
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatistic,id,indicatorId,regionId,data
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticData, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticData/2477025614, 2477025614
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticData,id,statisticId,ts,value
+[Ltime.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticData;, false, false, true, true, [Ltime.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticData;/1188695802, 1188695802
+time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticText, false, false, true, true, time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticText/667593617, 667593617
+@ClientFields,time.graphics.gwt.common.client.entity.EntityLibraryWorldBankStatisticText,id,indicatorId,regionId,indicatorI18n,regionI18n
+time.graphics.gwt.common.client.entity.EntityMultistats, true, true, true, true, time.graphics.gwt.common.client.entity.EntityMultistats/3644884566, 3644884566
+@ClientFields,time.graphics.gwt.common.client.entity.EntityMultistats,list,timelineId
+time.graphics.gwt.common.client.entity.EntityMultistatsCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityMultistatsCommon/3826471215, 3826471215
+[Ltime.graphics.gwt.common.client.entity.EntityMultistatsCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityMultistatsCommon;/2918075787, 2918075787
+time.graphics.gwt.common.client.entity.EntityMultistatsUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityMultistatsUpdate/1838760976, 1838760976
+@ClientFields,time.graphics.gwt.common.client.entity.EntityMultistatsUpdate,updateId,actionId,entityId,updateGroupId
+[Ltime.graphics.gwt.common.client.entity.EntityMultistatsUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityMultistatsUpdate;/4113622943, 4113622943
+[Ltime.graphics.gwt.common.client.entity.EntityMultistats;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityMultistats;/1966958426, 1966958426
+time.graphics.gwt.common.client.entity.EntityPeriod, true, true, true, true, time.graphics.gwt.common.client.entity.EntityPeriod/1801748327, 1801748327
+@ClientFields,time.graphics.gwt.common.client.entity.EntityPeriod,timelineId
+time.graphics.gwt.common.client.entity.EntityPeriodCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityPeriodCommon/241715912, 241715912
+[Ltime.graphics.gwt.common.client.entity.EntityPeriodCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityPeriodCommon;/2015452276, 2015452276
+time.graphics.gwt.common.client.entity.EntityPeriodUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityPeriodUpdate/3755423946, 3755423946
+@ClientFields,time.graphics.gwt.common.client.entity.EntityPeriodUpdate,updateTimelineId,entityId,actionId,updateGroupId
+[Ltime.graphics.gwt.common.client.entity.EntityPeriodUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityPeriodUpdate;/3538880225, 3538880225
+[Ltime.graphics.gwt.common.client.entity.EntityPeriod;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityPeriod;/2169856009, 2169856009
+time.graphics.gwt.common.client.entity.EntityProgress, true, true, true, true, time.graphics.gwt.common.client.entity.EntityProgress/2068921337, 2068921337
+@ClientFields,time.graphics.gwt.common.client.entity.EntityProgress,timelineId
+time.graphics.gwt.common.client.entity.EntityProgressCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityProgressCommon/1056921509, 1056921509
+[Ltime.graphics.gwt.common.client.entity.EntityProgressCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityProgressCommon;/800688879, 800688879
+time.graphics.gwt.common.client.entity.EntityProgressUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityProgressUpdate/3787767574, 3787767574
+@ClientFields,time.graphics.gwt.common.client.entity.EntityProgressUpdate,updateId,entityId,actionId,updateGroupId
+[Ltime.graphics.gwt.common.client.entity.EntityProgressUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityProgressUpdate;/2060394213, 2060394213
+[Ltime.graphics.gwt.common.client.entity.EntityProgress;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityProgress;/2512504767, 2512504767
+time.graphics.gwt.common.client.entity.EntityStatistic, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatistic/1272171804, 1272171804
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatistic,timelineId
+time.graphics.gwt.common.client.entity.EntityStatisticCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticCommon/977382888, 977382888
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticCommon;/856892103, 856892103
+time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalytics, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalytics/1165390695, 1165390695
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalytics,timelineId
+time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsCommon/1162933461, 1162933461
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsCommon;/1837022880, 1837022880
+time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsUpdate/141404700, 141404700
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsUpdate,updateId,entityId,actionId,updateGroupId,updateMultistatsId
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalyticsUpdate;/3735601694, 3735601694
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalytics;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticGoogleAnalytics;/3744834024, 3744834024
+time.graphics.gwt.common.client.entity.EntityStatisticReporting, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticReporting/1459188629, 1459188629
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticReporting,timelineId
+time.graphics.gwt.common.client.entity.EntityStatisticReportingCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticReportingCommon/25155520, 25155520
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticReportingCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticReportingCommon;/4127359756, 4127359756
+time.graphics.gwt.common.client.entity.EntityStatisticReportingUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticReportingUpdate/1560160239, 1560160239
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticReportingUpdate,updateId,entityId,actionId,updateGroupId,updateMultistatsId
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticReportingUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticReportingUpdate;/863098504, 863098504
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticReporting;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticReporting;/2469386078, 2469386078
+time.graphics.gwt.common.client.entity.EntityStatisticUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticUpdate/3888895905, 3888895905
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticUpdate,updateId,entityId,actionId,updateGroupId,updateMultistatsId
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticUpdate;/2151389360, 2151389360
+time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrika, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrika/3296824742, 3296824742
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrika,timelineId
+time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaCommon, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaCommon/2065061302, 2065061302
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaCommon;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaCommon;/1108194753, 1108194753
+time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaUpdate, true, true, true, true, time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaUpdate/1901256127, 1901256127
+@ClientFields,time.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaUpdate,updateId,entityId,actionId,updateGroupId,updateMultistatsId
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaUpdate;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticYandexMetrikaUpdate;/1513512814, 1513512814
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticYandexMetrika;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticYandexMetrika;/3570824117, 3570824117
+[Ltime.graphics.gwt.common.client.entity.EntityStatistic;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatistic;/1221109185, 1221109185
+[Ltime.graphics.gwt.common.client.entity.EntityStatisticsInterface;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityStatisticsInterface;/2246790142, 2246790142
+time.graphics.gwt.common.client.entity.EntityTag, true, true, true, true, time.graphics.gwt.common.client.entity.EntityTag/3339878612, 3339878612
+@ClientFields,time.graphics.gwt.common.client.entity.EntityTag,id,name,color,timelineId,userId
+[Ltime.graphics.gwt.common.client.entity.EntityTag;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityTag;/2132580649, 2132580649
+time.graphics.gwt.common.client.entity.EntityTimeline, true, true, true, true, time.graphics.gwt.common.client.entity.EntityTimeline/2026452682, 2026452682
+@ClientFields,time.graphics.gwt.common.client.entity.EntityTimeline,id,name,description,previewTimelineImage,previewCustomImage,zoomAndPosition,backgroundCoverImage,views,likePlus,likeMinus,access,userId,link,anyoneCanEdit,quickApprove,themeId,ts,events,periods,progresses,statistics,statisticsYandexMetrika,statisticsGoogleAnalytics,reportingAPIs,groups,multistats
+time.graphics.gwt.common.client.entity.EntityTimelineFullInformation, false, false, true, true, time.graphics.gwt.common.client.entity.EntityTimelineFullInformation/2122479456, 2122479456
+@ClientFields,time.graphics.gwt.common.client.entity.EntityTimelineFullInformation,id,name,description,previewTimelineImage,previewCustomImage,zoomAndPosition,backgroundCoverImage,views,likePlus,likeMinus,access,userId,link,anyoneCanEdit,quickApprove,themeId,ts,eventsCount,periodsCount,progressesCount,statisticsCount
+time.graphics.gwt.common.client.entity.EntityTimelineText, true, true, true, true, time.graphics.gwt.common.client.entity.EntityTimelineText/73313685, 73313685
+@ClientFields,time.graphics.gwt.common.client.entity.EntityTimelineText,id,name,description,previewTimelineImage,previewCustomImage,zoomAndPosition,backgroundCoverImage,views,likePlus,likeMinus,access,userId,link,anyoneCanEdit,quickApprove,themeId,ts
+time.graphics.gwt.common.client.entity.EntityUpdateCommentExtra, true, true, true, true, time.graphics.gwt.common.client.entity.EntityUpdateCommentExtra/1645218738, 1645218738
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUpdateCommentExtra,id,text,userId,updateId,ts,typeId,user,userOnline
+[Ltime.graphics.gwt.common.client.entity.EntityUpdateCommentExtra;, true, true, true, true, [Ltime.graphics.gwt.common.client.entity.EntityUpdateCommentExtra;/4115131669, 4115131669
+time.graphics.gwt.common.client.entity.EntityUpdateTimeline, true, true, true, true, time.graphics.gwt.common.client.entity.EntityUpdateTimeline/3825267287, 3825267287
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUpdateTimeline,id,timelineId,userId,status,ts,backgroundCoverImage,themeId,events,periods,progresses,statistics,statisticsYandexMetrika,statisticsGoogleAnalytics,reportingAPIs,groups,multiStats
+time.graphics.gwt.common.client.entity.EntityUpdateTimelineLite, true, true, true, true, time.graphics.gwt.common.client.entity.EntityUpdateTimelineLite/850139672, 850139672
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUpdateTimelineLite,id,timelineId,userId,status,ts,backgroundCoverImage,themeId
+time.graphics.gwt.common.client.entity.EntityUserMicro, false, false, true, true, time.graphics.gwt.common.client.entity.EntityUserMicro/2709329445, 2709329445
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUserMicro,id,name,mail
+[Ltime.graphics.gwt.common.client.entity.EntityUserMicro;, false, false, true, true, [Ltime.graphics.gwt.common.client.entity.EntityUserMicro;/2932228359, 2932228359
+time.graphics.gwt.common.client.entity.EntityUserPremium, true, false, true, true, time.graphics.gwt.common.client.entity.EntityUserPremium/1409399925, 1409399925
+time.graphics.gwt.common.client.entity.EntityUserProfile, false, false, true, true, time.graphics.gwt.common.client.entity.EntityUserProfile/1689439616, 1689439616
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUserProfile,id,password,mail,name,about,photo_50,emailSubscribe,emailConfirmed,ts,vkuid,fbuid,twitterId,linkedinId,googleId,locale
+time.graphics.gwt.common.client.entity.EntityUserSimple, true, true, true, true, time.graphics.gwt.common.client.entity.EntityUserSimple/2017113622, 2017113622
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUserSimple,name,photo_50
+time.graphics.gwt.common.client.entity.EntityUserSimpleSettings, true, true, true, true, time.graphics.gwt.common.client.entity.EntityUserSimpleSettings/3995818236, 3995818236
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUserSimpleSettings,name,photo_50,mail,about
+time.graphics.gwt.common.client.entity.EntityUserSocialActions, true, true, true, true, time.graphics.gwt.common.client.entity.EntityUserSocialActions/3793094072, 3793094072
+@ClientFields,time.graphics.gwt.common.client.entity.EntityUserSocialActions,id,userId,instagram,facebook,twitter,youtube,liked,comment,review,video,photos,podcast,ts
+time.graphics.gwt.common.model.CommonGwtConst$Export$Side, false, false, true, true, time.graphics.gwt.common.model.CommonGwtConst$Export$Side/3778625740, 3778625740
+time.graphics.gwt.common.model.DatasJson, false, false, true, true, time.graphics.gwt.common.model.DatasJson/2785816385, 2785816385
+time.graphics.gwt.common.model.canvas.CanvasImageData, false, false, true, true, time.graphics.gwt.common.model.canvas.CanvasImageData/1589989415, 1589989415
+time.graphics.gwt.common.model.maps.EntityCity, false, false, true, true, time.graphics.gwt.common.model.maps.EntityCity/3504623416, 3504623416
+time.graphics.gwt.common.model.maps.LatLngBoxBounds, false, false, true, true, time.graphics.gwt.common.model.maps.LatLngBoxBounds/3506954660, 3506954660
+time.graphics.gwt.common.model.maps.SerializableCoordinate, true, true, true, true, time.graphics.gwt.common.model.maps.SerializableCoordinate/255621508, 255621508
+[Ltime.graphics.gwt.common.model.maps.SerializableCoordinate;, true, true, true, true, [Ltime.graphics.gwt.common.model.maps.SerializableCoordinate;/2757053150, 2757053150
+time.graphics.gwt.common.model.time.TimeDuration, false, false, true, true, time.graphics.gwt.common.model.time.TimeDuration/3261462667, 3261462667
+time.graphics.gwt.common.model.time.entities.Time, true, true, true, true, time.graphics.gwt.common.model.time.entities.Time/524407676, 524407676
+time.graphics.gwt.common.model.ui.media.image.ImageSource, false, false, true, true, time.graphics.gwt.common.model.ui.media.image.ImageSource/270938281, 270938281
+time.graphics.gwt.common.model.ui.media.link.MediaLinkData, false, false, true, true, time.graphics.gwt.common.model.ui.media.link.MediaLinkData/3569262168, 3569262168
+[Ltime.graphics.gwt.common.model.ui.media.link.MediaLinkData;, false, false, true, true, [Ltime.graphics.gwt.common.model.ui.media.link.MediaLinkData;/73582488, 73582488
+time.graphics.gwt.common.remote.CommonRemoteService, false, false, false, false, _, 3000717173
+time.graphics.gwt.common.serializables.AjaxResponse, true, true, false, false, time.graphics.gwt.common.serializables.AjaxResponse/778214056, 778214056
+time.graphics.gwt.common.serializables.CommentData, false, false, true, true, time.graphics.gwt.common.serializables.CommentData/827517020, 827517020
+time.graphics.gwt.common.serializables.CommonSerializableIds, false, false, true, true, time.graphics.gwt.common.serializables.CommonSerializableIds/2854365100, 2854365100
+time.graphics.gwt.common.serializables.Covid19CountrySerializable, true, true, true, true, time.graphics.gwt.common.serializables.Covid19CountrySerializable/3664552318, 3664552318
+time.graphics.gwt.common.serializables.CropedAspectRatio, false, false, true, true, time.graphics.gwt.common.serializables.CropedAspectRatio/2152524719, 2152524719
+time.graphics.gwt.common.serializables.ImageCropSerializable, false, false, true, true, time.graphics.gwt.common.serializables.ImageCropSerializable/2031865928, 2031865928
+time.graphics.gwt.common.serializables.ImageProcessingParamsSerializable, false, false, true, true, time.graphics.gwt.common.serializables.ImageProcessingParamsSerializable/1901156893, 1901156893
+time.graphics.gwt.common.serializables.Nothing, true, true, true, true, time.graphics.gwt.common.serializables.Nothing/3600714581, 3600714581
+time.graphics.gwt.common.serializables.OAuthLoginData, true, true, true, true, time.graphics.gwt.common.serializables.OAuthLoginData/1089546258, 1089546258
+time.graphics.gwt.common.serializables.PairDouble, false, false, true, true, time.graphics.gwt.common.serializables.PairDouble/2775860119, 2775860119
+time.graphics.gwt.common.serializables.PingData, true, true, true, true, time.graphics.gwt.common.serializables.PingData/1300017231, 1300017231
+time.graphics.gwt.common.serializables.PosterRequest, false, false, true, true, time.graphics.gwt.common.serializables.PosterRequest/4225776912, 4225776912
+time.graphics.gwt.common.serializables.SerializableChanges, false, false, true, true, time.graphics.gwt.common.serializables.SerializableChanges/1608322435, 1608322435
+time.graphics.gwt.common.serializables.SerializableChangesPack, false, false, true, true, time.graphics.gwt.common.serializables.SerializableChangesPack/3557844335, 3557844335
+time.graphics.gwt.common.serializables.SerializableExportMargin, false, false, true, true, time.graphics.gwt.common.serializables.SerializableExportMargin/1106995240, 1106995240
+time.graphics.gwt.common.serializables.SerializableExportRequestData, false, false, true, true, time.graphics.gwt.common.serializables.SerializableExportRequestData/185750932, 185750932
+time.graphics.gwt.common.serializables.SerializableExportSettings, false, false, true, true, time.graphics.gwt.common.serializables.SerializableExportSettings/2415353622, 2415353622
+time.graphics.gwt.common.serializables.SerializableExportTypes, false, false, true, true, time.graphics.gwt.common.serializables.SerializableExportTypes/1888902609, 1888902609
+time.graphics.gwt.common.serializables.SerializableGoogleCalendar, true, true, true, true, time.graphics.gwt.common.serializables.SerializableGoogleCalendar/3962745399, 3962745399
+time.graphics.gwt.common.serializables.SerializableGoogleCalendarData, true, true, true, true, time.graphics.gwt.common.serializables.SerializableGoogleCalendarData/1978732278, 1978732278
+[Ltime.graphics.gwt.common.serializables.SerializableGoogleCalendar;, true, true, true, true, [Ltime.graphics.gwt.common.serializables.SerializableGoogleCalendar;/4009787125, 4009787125
+time.graphics.gwt.common.serializables.SerializableGoogleSearchConsoleData, true, true, true, true, time.graphics.gwt.common.serializables.SerializableGoogleSearchConsoleData/747491575, 747491575
+time.graphics.gwt.common.serializables.SerializableGoogleSearchConsoleSite, true, true, true, true, time.graphics.gwt.common.serializables.SerializableGoogleSearchConsoleSite/1086017205, 1086017205
+[Ltime.graphics.gwt.common.serializables.SerializableGoogleSearchConsoleSite;, true, true, true, true, [Ltime.graphics.gwt.common.serializables.SerializableGoogleSearchConsoleSite;/4187551248, 4187551248
+time.graphics.gwt.common.serializables.SerializableGoogleSpreadsheetsData, true, true, true, true, time.graphics.gwt.common.serializables.SerializableGoogleSpreadsheetsData/2426205013, 2426205013
+time.graphics.gwt.common.serializables.SerializableTimeline, true, true, true, true, time.graphics.gwt.common.serializables.SerializableTimeline/3650518503, 3650518503
+time.graphics.gwt.common.serializables.SerializableTimelineDifference, true, true, true, true, time.graphics.gwt.common.serializables.SerializableTimelineDifference/1054254818, 1054254818
+time.graphics.gwt.common.serializables.SerializableUpdateRecord, true, true, true, true, time.graphics.gwt.common.serializables.SerializableUpdateRecord/3788545153, 3788545153
+[Ltime.graphics.gwt.common.serializables.SerializableUpdateRecord;, true, true, true, true, [Ltime.graphics.gwt.common.serializables.SerializableUpdateRecord;/3098367024, 3098367024
+time.graphics.gwt.common.serializables.SerializableUserDataStats, true, true, true, true, time.graphics.gwt.common.serializables.SerializableUserDataStats/511847460, 511847460
+time.graphics.gwt.common.serializables.SerializableWBRankingRegion, true, true, true, true, time.graphics.gwt.common.serializables.SerializableWBRankingRegion/4091891416, 4091891416
+[Ltime.graphics.gwt.common.serializables.SerializableWBRankingRegion;, true, true, false, false, [Ltime.graphics.gwt.common.serializables.SerializableWBRankingRegion;/3179960898, 3179960898
+time.graphics.gwt.common.serializables.SerializableWBRegionData, true, true, true, true, time.graphics.gwt.common.serializables.SerializableWBRegionData/3057925543, 3057925543
+time.graphics.gwt.common.serializables.SerializableWBStatData, true, true, true, true, time.graphics.gwt.common.serializables.SerializableWBStatData/3536169583, 3536169583
+time.graphics.gwt.common.serializables.TimelineEditEqualsData, true, true, true, true, time.graphics.gwt.common.serializables.TimelineEditEqualsData/1434618255, 1434618255
+time.graphics.gwt.common.serializables.TriplesSerializable, true, true, true, true, time.graphics.gwt.common.serializables.TriplesSerializable/1023561205, 1023561205
+[Ltime.graphics.gwt.common.serializables.TriplesSerializable;, true, true, true, true, [Ltime.graphics.gwt.common.serializables.TriplesSerializable;/3275944809, 3275944809
+time.graphics.gwt.common.serializables.UpdateResult, true, true, true, true, time.graphics.gwt.common.serializables.UpdateResult/2217073162, 2217073162
+time.graphics.gwt.common.serializables.UpdateSerializableData, true, true, true, true, time.graphics.gwt.common.serializables.UpdateSerializableData/3234275203, 3234275203
+time.graphics.gwt.common.serializables.UploadImageResult, true, true, true, true, time.graphics.gwt.common.serializables.UploadImageResult/1711215958, 1711215958
+time.graphics.gwt.common.serializables.User, true, true, true, true, time.graphics.gwt.common.serializables.User/1773331121, 1773331121
+time.graphics.gwt.common.serializables.UserMicro, true, true, true, true, time.graphics.gwt.common.serializables.UserMicro/528815501, 528815501
+time.graphics.gwt.common.serializables.common.Pair, true, true, true, true, time.graphics.gwt.common.serializables.common.Pair/3724253325, 3724253325
+[Ltime.graphics.gwt.common.serializables.common.Pair;, true, true, true, true, [Ltime.graphics.gwt.common.serializables.common.Pair;/2493229765, 2493229765
