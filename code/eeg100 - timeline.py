@@ -41,7 +41,6 @@ print(desc_data)
 print(meta_data)
 
 
-# Assuming demo_data has already been read into a DataFrame
 # Let's describe the 'EEG Papers' column to see its distribution
 
 # First, we'll check the basic statistics and distribution of the 'EEG Papers' column
@@ -144,9 +143,6 @@ predict_item_dict = {'EEG is routinely used in the diagnosis and monitoring of s
 
 # We need to sort 'results_df' by 'Average Prediction (Years)' in ascending order
 sorted_results_df = results_df.sort_values('Average Prediction (Years)')
-
-# THIS IS WHERE THE CHANGE HAPPENS
-
 
 # Now, we can safely assign the new column names since the order will match
 sorted_results_df.index = new_column_order
