@@ -1,3 +1,16 @@
+"""
+This Python script generates an Excel sheet for visualizing a timeline related to the 100th anniversary of human EEG measurements, 
+based on predictions from over 500 EEG researchers and enthusiasts. The timeline highlights key events from 2024 onward, 
+illustrating the predicted advancements in EEG technology and applications. Events are represented with varying lengths corresponding 
+to their 95% confidence intervals and are color-coded from red to blue to indicate the volume of responses per topic.
+
+The script processes data from TSV and JSON files, calculates averages, valid percentages, and confidence intervals for each prediction, 
+and organizes this information into a structured format suitable for creating an interactive timeline. Additionally, it includes functionality 
+for reversing color maps based on response percentages and exporting the final data to a CSV file, which can then be used to generate the visual 
+timeline on the project's website.
+"""
+
+
 import matplotlib.colors as mcolors
 from scipy import stats
 import matplotlib.pyplot as plt
