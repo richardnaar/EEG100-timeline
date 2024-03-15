@@ -8,6 +8,8 @@ The script processes data from TSV and JSON files, calculates averages, valid pe
 and organizes this information into a structured format suitable for creating an interactive timeline. Additionally, it includes functionality 
 for reversing color maps based on response percentages and exporting the final data to a CSV file, which can then be used to generate the visual 
 timeline on the project's website.
+
+The data can be accessed from: https://osf.io/qv38p/
 """
 
 
