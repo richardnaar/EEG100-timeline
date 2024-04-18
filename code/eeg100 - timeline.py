@@ -11,7 +11,7 @@ timeline on the project's website.
 
 The data can be accessed from: https://osf.io/qv38p/
 
-The help of LLM (Open AI's GPT-4) was used in creation of this code and its description. 
+The help of LLM (Open AI's GPT-4) was used in creation of this code and it's description. 
 """
 
 
